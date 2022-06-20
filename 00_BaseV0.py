@@ -7,10 +7,6 @@ CC CLK 2022
 
 """
 
+# Import libraries below this line ****************
 
-
-# Import library below this line
-
-# All function below this line
-
-# Main routine below this line
+# All function below this line ****************
